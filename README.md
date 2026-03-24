@@ -48,4 +48,7 @@ To enforce anatomical consistency, we introduce the Tri-Domain Fidelity (TDF) Lo
 
 Please refer to [DATASET.md](DATASET.md) for detailed instructions on downloading and organizing the TNBC, CPM-15, CPM-17, and PanNuke datasets.
 
+## Results
+Please refer to [RESULTS.md](RESULTS.md) for all the experimental results of SAGED-Net
+
 ---
